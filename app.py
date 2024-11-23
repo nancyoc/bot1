@@ -6,7 +6,7 @@ st.balloons()
 st.title("💬 Nancy art")
 st.write(
    "Este es un chat para platicar de arte 🌻🎨🖼️. "
-   "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
+   "Vamos a aprender juntos sobre obras y artistas 💬, [here](https://platform.openai.com/account/api-keys). "
    "You can also learn how to build this app step by step by [following our tutorial](https://docs.streamlit.io/develop/tutorials/llms/build-conversational-apps)."
 )
 openai_api_key = st.secrets["api_key"] 
