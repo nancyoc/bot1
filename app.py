@@ -3,7 +3,7 @@ from openai import OpenAI
 
 st.balloons()
 # Show title and description.
-st.title("💬 nancy art")
+st.title("💬 Nancy art")
 st.write(
    "Este es un chat para platicar de arte 🌻🎨🖼️. "
    "To use this app, you need to provide an OpenAI API key, which you can get [here](https://platform.openai.com/account/api-keys). "
